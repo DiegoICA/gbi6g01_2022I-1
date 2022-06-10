@@ -11,8 +11,8 @@
  Procesador: 
 - Intel(R) Core(TM) i7-4770 CPU @
 - RAM instalada 8.00 GB
+- Sistema operativo de 64 bits, procesador x64
 
 ## PROGRAMAS UTILIZADOS 
 - GitBash v2.36.0
 - GitHub Desktop 3.0.0
-- Sistema operativo de 64 bits, procesador x64
