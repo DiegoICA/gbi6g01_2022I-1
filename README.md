@@ -14,5 +14,4 @@
 ## PROGRAMAS UTILIZADOS 
 - GitBash v2.36.0
 - GitHub Desktop 3.0.0
-
-
+- Sistema operativo de 64 bits, procesador x64
