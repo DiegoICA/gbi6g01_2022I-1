@@ -3,6 +3,7 @@
 # EXAMEN DE MEDIO SEMESTRE
 ## DATOS PERSONALES
 - Carranco, Diego
+- 1004720494
 - Ibarra
 - Biotecnología
 
